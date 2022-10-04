@@ -67,7 +67,7 @@ if (choice==2)
 	cout<<"the nubmer of our hearts >>>> day";
 	cout<<"the half of your age >>>> month";
 	cout<<"MjAyMg== >>>> year";
-	cout<<"wanna see them??follow the link: https://mega.nz/file/7LR0zJKI#nFCXuH5UkRxq4WCZjTCoyBbCTfoHUX9UuMHz7Zfki_k";
+	cout<<"wanna see them??follow the link: shshshshshshs";
 	cout<<"WHAT'S NEXT?";
 }
 
